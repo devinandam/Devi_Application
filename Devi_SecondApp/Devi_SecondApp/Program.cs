@@ -11,6 +11,7 @@ namespace Devi_SecondApp
         static void Main(string[] args)
         {
             Console.WriteLine("devi");
+            nnnnnnnnnnnnnnnnnnnnnnnj
         }
     }
 }
