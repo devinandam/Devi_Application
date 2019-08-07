@@ -11,6 +11,7 @@ namespace Devi_App
         static void Main(string[] args)
         {
             string s = "devi";
+            string a = "amrutha";
         }
     }
 }
